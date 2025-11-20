@@ -148,21 +148,6 @@ npm start
 npm run lint
 \`\`\`
 
-## Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push to GitHub
-2. Go to [Vercel](https://vercel.com)
-3. Import your repository
-4. Add `GEMINI_API_KEY` environment variable
-5. Deploy!
-
-### Other Platforms
-
-The app is built with Next.js and can be deployed to any platform that supports Node.js (Railway, Render, Heroku, etc.)
-
-## Troubleshooting
 
 **"API key not configured" error**
 - Make sure `.env.local` exists in your project root
